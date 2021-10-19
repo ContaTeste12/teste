@@ -1,1 +1,1 @@
-# testeIsso é apenas um repositório para testes
+# Isso é apenas um repositório para testes
